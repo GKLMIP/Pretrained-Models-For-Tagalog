@@ -1,6 +1,6 @@
 # Pretrained-Models-For-Tagalog
 
-If you use our model or our dataset, please consider citing our paper:
+If you use our models or our dataset, please consider citing our paper:
 ```
 @InProceedings{,
 author="Jiang, Shengyi
